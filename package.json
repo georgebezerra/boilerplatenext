@@ -6,7 +6,7 @@
   "keywords": [
     "APP","React","Next", "PWA","ESLint","Prettier","Jest","StoryBook","Styled-components", "Git Hooks", "Typescript"
   ],
-  "author": "George .S. Bezerra <george.contato@gmail.com>",
+  "author": "George Bezerra <george.contato@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest",
@@ -15,8 +15,8 @@
     "start": "next start",
     "test:watch": "yarn test --watch",
     "lint": "eslint src --max-warnings=0",
-    "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook -s ./public ",
+    "storybook": "start-storybook -s ./public -p 6006"
   },
   "husky": {
     "hooks": {

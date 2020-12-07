@@ -5,7 +5,4 @@ module.exports = {
   collectCoverageFrom: ['src/**/*.ts(x)?', '!src/**/stories.tsx'],
   setupFilesAfterEnv: ['<rootDir>/.jest/setup.ts'],
   modulePaths: ['<rootDir>/src/']
-  // moduleNameMapper: {
-  //   'styled-components': '<rootDir>/node_modules/styled-components/dist/sytled-components.browser.cjs.js'
-  // }
 }
