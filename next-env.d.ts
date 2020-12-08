@@ -1,2 +1,2 @@
-/// <reference types="next" />
-/// <reference types="next/types/global" />
+// <reference type="next" />
+// <reference type="next/types/global" />

@@ -4,7 +4,17 @@
   "description": "APP Developed using React, Next, PWA, TypeScript, ESLint, Prettier, Jest, StoryBook, Styled-components and Git Hooks.",
   "private": true,
   "keywords": [
-    "APP","React","Next", "PWA","ESLint","Prettier","Jest","StoryBook","Styled-components", "Git Hooks", "Typescript"
+    "APP",
+    "React",
+    "Next",
+    "PWA",
+    "ESLint",
+    "Prettier",
+    "Jest",
+    "StoryBook",
+    "Styled-components",
+    "Git Hooks",
+    "Typescript"
   ],
   "author": "George Bezerra <george.contato@gmail.com>",
   "license": "MIT",
@@ -16,7 +26,8 @@
     "test:watch": "yarn test --watch",
     "lint": "eslint src --max-warnings=0",
     "build-storybook": "build-storybook -s ./public ",
-    "storybook": "start-storybook -s ./public -p 6006"
+    "storybook": "start-storybook -s ./public -p 6006",
+    "generate": "yarn plop --plopfile ./generators/plopfile.js"
   },
   "husky": {
     "hooks": {
@@ -60,6 +71,7 @@
     "jest": "^26.6.3",
     "jest-styled-components": "^7.0.3",
     "lint-staged": "^10.5.2",
+    "plop": "^2.7.4",
     "prettier": "2.2.1",
     "typescript": "^4.1.2"
   }

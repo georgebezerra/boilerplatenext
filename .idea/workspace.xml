@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a824eb8-95ae-4d55-a4fe-cbf0c48902c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/generators/plopfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/templates/index.tsx.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/templates/stories.tsx.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/templates/styles.ts.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/templates/test.tsx.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/type/jest-styled-components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/type/styled-components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/iframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/main.4c2b3a791092ae57a126.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/main.4c2b3a791092ae57a126.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/runtime~main.4c2b3a791092ae57a126.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/runtime~main.4c2b3a791092ae57a126.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/vendors~main.4246c4f370201c280060.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/vendors~main.4246c4f370201c280060.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/vendors~main.4c2b3a791092ae57a126.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/vendors~main.4c2b3a791092ae57a126.bundle.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-static/vendors~main.4c2b3a791092ae57a126.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -35,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gamestore/gamestore_client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/types" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v14.15.0/bin/node" />
@@ -49,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/types" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -68,7 +90,8 @@
       <workItem from="1607164090371" duration="8572000" />
       <workItem from="1607195693411" duration="11547000" />
       <workItem from="1607258663995" duration="4361000" />
-      <workItem from="1607378850784" duration="768000" />
+      <workItem from="1607378850784" duration="7619000" />
+      <workItem from="1607432351822" duration="2570000" />
     </task>
     <servers />
   </component>
